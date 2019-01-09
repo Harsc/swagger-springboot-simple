@@ -32,7 +32,7 @@ public class SwaggerConfig {
         return new ApiInfo(
                 "Student REST API",
                 "Some custom description of API.",
-                "API TOS",
+                "拟稿",
                 "Terms of service",
                 new Contact("John Doe", "www.example.com", "myeaddress@company.com"),
                 "License of API", "API license URL", Collections.emptyList());
